@@ -1,9 +1,3 @@
-Here you go, Ayesha — your complete, polished `README.md` file with everything neatly combined and formatted for GitHub ✅
-
----
-
-### 📄 `README.md`
-
 ```markdown
 # 🐳 Docker Test App – Node.js + MongoDB + Mongo Express
 
